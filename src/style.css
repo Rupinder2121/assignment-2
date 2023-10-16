@@ -1,0 +1,105 @@
+table {
+    width: 100%;
+    }
+    
+    table {
+        border-collapse: collapse;
+        }
+        td {
+            text-align: center;
+            }
+           
+            tr:hover {background-color: rgb(98, 0, 255);}
+            tr:nth-child(even) {background-color: #6a87c6;}
+            th {
+                background-color: #9f2672;
+                color: white;
+                }
+               
+
+/* Style for h1 element */
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+/* Style for a element (links) */
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: green;
+}
+
+
+/* Style for all list items within an unordered list (ul) */
+ul li {
+    list-style-type: square;
+    margin-left: 20px;
+}
+/* Style for the element with the ID "main-heading" */
+#main-heading {
+    color: blue;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+}
+/* Style for the element with the class "first-class" */
+.first-class {
+    color: blue;
+    font-weight: bold;
+}
+
+/* Style for the element with the class "second-class" */
+.second-class {
+    background-color: yellow;
+    font-size: 18px;
+}
+
+.introduction {
+    background-color: #b7adad; 
+    padding: 20px;
+    margin: 10px;
+}
+
+.work-history {
+    background-color: #a82c2c; 
+    padding: 20px;
+    margin: 10px;
+}
+
+.coding-experience {
+    background-color: #871b1b; 
+    padding: 20px;
+    margin: 10px;
+}
+
+.resume-link {
+    background-color: #e1e10a; 
+    padding: 20px;
+    margin: 10px;
+}
+
+.professor-info {
+    background-color: #c0b7b7;
+    padding: 20px;
+    margin: 10px;
+}
+
+.daily-activity {
+    background-color: #495739; 
+    padding: 20px;
+    margin: 10px;
+}
+
+.hobbies {
+    background-color: #8f3c3c; 
+    padding: 20px;
+    margin: 10px;
+}
+
+
+
+
+
+
+    
